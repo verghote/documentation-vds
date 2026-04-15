@@ -13,8 +13,7 @@ Vous êtes chargé de participer à l’évolution de ce site
 - Etude de l'existant
 - Mise en place de l'application
 
-## Documentation mise à la disposition des étudiants
-
+## Documentation des modules à réaliser
 
 - Les documents
 - Les événements
@@ -22,4 +21,6 @@ Vous êtes chargé de participer à l’évolution de ce site
 - Les inscriptions en ligne
 - Les partenaires
 
+Le sous répertoire document contient les documents pdf à intégrer
+Le sous répertoire partenaire contient les logos des partenaires à intégrer
 
